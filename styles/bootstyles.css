@@ -1,0 +1,107 @@
+/* Darby Mecham - 12-9-2021
+Tableau only style guide */
+body{
+    background-image: linear-gradient(rgba(47, 23, 15, 0.65), rgba(47, 23, 15, 0.65)), url("../assets/img/bgGreenery.jpeg");
+    background-attachment: fixed;
+    background-position: center;
+    background-size: cover;
+}
+
+.common {
+    background-color: rgba(58, 26, 26, 0.829);
+    border: solid 2px rgb(218, 214, 214);
+    position: absolute;
+
+}
+
+.text {
+    color: rgb(218, 214, 214);
+    text-align: center;
+    font-size: large;
+}
+
+.resizable {
+    resize: both;
+    overflow: scroll;
+}
+
+.header {
+    top: 25px;
+    left:50px;
+    right: 50px;
+    height: 100px;
+    color: rgb(218, 214, 214);
+}
+.bodyone{
+    left: 100px;
+    right: 100px;
+    top: 179px;
+    height:900px;
+}
+
+.bodytwo{
+    left: 100px;
+    right: 100px;
+    top: 1133px;
+    height:900px;
+}
+
+.bodythree{
+    left: 100px;
+    right: 100px;
+    top: 2087px;
+    height:900px;
+}
+
+.bodyfour{
+    left: 100px;
+    right: 100px;
+    top: 3041px;
+    height:900px;
+}
+
+.footer{
+    top: 3995px;
+    left:50px;
+    right: 50px;
+    height: 100px;
+    bottom: 100px;
+    text-align: center;
+}
+
+a{
+     color:rgb(218, 214, 214);
+}
+
+a:hover{
+    font-weight: bold;
+}
+
+a:visited{
+    color:dimgray;
+}
+
+
+
+/*.righttop{
+    right: 10px;
+    top: 10px;
+    width: 500;
+    height:;
+}
+.rightbottom{
+    right: 10px;
+    bottom: 124px;
+
+}
+
+.leftbottom{
+    left: 10px;
+    bottom: 124px;
+
+}
+
+
+/*
+color: rgb(218, 214, 214);
+*/
